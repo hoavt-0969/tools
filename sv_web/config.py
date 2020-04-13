@@ -4,8 +4,8 @@ config = {
     'server_version':'Apache/2.4.41'
 }
 
-HOST_NAME = "localhost"
-PORT = 8888
+HOST_NAME = "0.0.0.0"
+PORT_WEB = 8888
 
 PORTS_OPEN = "9000, 9001"
 
