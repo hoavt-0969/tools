@@ -2,14 +2,14 @@ import logging
 import threading
 from socket import socket, timeout
 
-import config
+
 class PortOpen(object):
-    def __init__(self):
-        self.ports = config.PORTS_OPEN.split(",")
-        self.log_filepath = config.log_filepath
+    def __init__(self, bind_ip, ports, log_filepath):
+        self.ports = ports
+        self.log_filepath = log_filepath
         self.listener_threads = {}
-        self.bind_ip = config.HOST_NAME
-        if len(config.PORTS_OPEN) < 1 :
+        self.bind_ip = bind_ip
+        if len(ports) < 1 :
             raise Exception("No ports provided.")
         logging.basicConfig(level=logging.DEBUG, 
                             format= '%(asctime)s %(levelname)-8s %(message)s', 
@@ -29,7 +29,7 @@ class PortOpen(object):
     
     def start_new_listener_thread(self, port):
         listener = socket()
-        listener.bind((config.HOST_NAME,int(port)))
+        listener.bind((self.bind_ip,int(port)))
         listener.listen(5)
         while True:
             client, addr = listener.accept()
