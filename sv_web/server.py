@@ -1,5 +1,5 @@
 import os
-
+import logging
 from http.server import BaseHTTPRequestHandler
 
 from routes.main import routes
@@ -8,19 +8,27 @@ from response.staticHandler import StaticHandler
 from response.templateHandler import TemplateHandler
 from response.badRequestHandler import BadRequestHandler
 
-from config import config
-
+from config import config_web_server
+import config
 class Server(BaseHTTPRequestHandler):
 
     def config_server(self):
-        self.server_version = config['server_version']
-        self.sys_version = config['sys_version']
-        self.protocol_version = config['protocol_version']
+        self.server_version = config_web_server['server_version']
+        self.sys_version = config_web_server['sys_version']
+        self.protocol_version = config_web_server['protocol_version']
     def do_GET(self):
-        print(self.address_string())
+        logging.basicConfig(level=logging.DEBUG, 
+                            format= '%(asctime)s %(levelname)-8s %(message)s', 
+                            datefmt='%Y-%m-%d %H:%M:%S', 
+                            filename=config.log_web_filepath, 
+                            filemode='w')
+        logging.info("GET request,\nPath: %s\nHeaders:\n%s\n", str(self.path), str(self.headers))
+        # print(self.address_string())
         split_path = os.path.splitext(self.path)
         request_extension = split_path[1]
-        print(request_extension)
+        # print(request_extension)
+        # print(self.client_address)
+        # print(self.log_request())
         if request_extension == "":
             #print(self.path)
             #print(self.path[1:-5])
