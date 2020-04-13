@@ -6,3 +6,7 @@ config = {
 
 HOST_NAME = "localhost"
 PORT = 8888
+
+PORTS_OPEN = "9000,90001"
+
+log_filepath = "log.txt"
