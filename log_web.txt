@@ -1,0 +1,294 @@
+2020-04-14 14:30:04 INFO     
+Connection: ('127.0.0.1', 63249)
+GET /
+Host: localhost:8888
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:30:04 INFO     
+Connection: ('127.0.0.1', 63250)
+GET /main.css
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: style
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:30:04 INFO     
+Connection: ('127.0.0.1', 63250)
+GET /main.css
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: style
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:30:04 INFO     
+Connection: ('127.0.0.1', 63251)
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:30:04 INFO     
+Connection: ('127.0.0.1', 63251)
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:30:04 INFO     
+Connection: ('127.0.0.1', 63251)
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:31:20 INFO     
+Connection: 127.0.0.1
+GET /
+Host: localhost:8888
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:31:20 INFO     
+Connection: 127.0.0.1
+GET /main.css
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: style
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:31:20 INFO     
+Connection: 127.0.0.1
+GET /main.css
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: style
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:31:21 INFO     
+Connection: 127.0.0.1
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:31:21 INFO     
+Connection: 127.0.0.1
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:31:21 INFO     
+Connection: 127.0.0.1
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:32:57 INFO     
+Connection from: 127.0.0.1:63292
+GET /
+Host: localhost:8888
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: document
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:32:57 INFO     
+Connection from: 127.0.0.1:63293
+GET /main.css
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: style
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:32:57 INFO     
+Connection from: 127.0.0.1:63293
+GET /main.css
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: style
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:32:57 INFO     
+Connection from: 127.0.0.1:63294
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:32:57 INFO     
+Connection from: 127.0.0.1:63294
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+
+2020-04-14 14:32:57 INFO     
+Connection from: 127.0.0.1:63294
+GET /img/space-background.png
+Host: localhost:8888
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Sec-Fetch-Dest: image
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: http://localhost:8888/main.css
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+
+
+

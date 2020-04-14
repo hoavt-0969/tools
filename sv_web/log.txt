@@ -1,3 +1,0 @@
-2020-04-13 09:06:50 INFO     Honeypot initializing...
-2020-04-13 09:06:50 INFO     Ports: ['9000', '90001']
-2020-04-13 09:06:50 INFO     Log file path: log.txt
